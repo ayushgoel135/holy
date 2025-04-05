@@ -31,7 +31,7 @@ st.markdown("""
         font-size: 16px;                 # Larger text for better readability
     }
     .stHeader {
-        font-size: 25px;                 # Large font size for headers
+        font-size: 24px;                 # Large font size for headers
         font-weight: bold;               # Bold font weight for headers
     }
 
